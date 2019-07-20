@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>对照表.png</file>
+    </qresource>
+</RCC>
